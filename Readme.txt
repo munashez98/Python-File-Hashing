@@ -9,6 +9,7 @@
 
 ##~Output~##
 - After running the script, the location of the output file will be printed in the command line. This location is usually in the same folder as the script itself
+- This script is capable of detecting appended data in case of steganography and generating a hash with and without the appended data
 
 ##~Modules Used in Script~##
 - os
