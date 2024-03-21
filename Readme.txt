@@ -3,7 +3,7 @@
 ## Author: Munashe Zanza
 
 ##~Running file~##
-- To execute the file run the command 'python3 HW3zanza.py'. Note: This will run the script using python3, if you're using another version then replace the '3' with the version you're using.
+- To execute the file run the command 'python3 JPGHash.py'. Note: This will run the script using python3, if you're using another version then replace the '3' with the version you're using.
 -When prompted, enter the path to the directory that you want to traverse for .jpg files
 -The path must point to a directory that contains the files and not to the files themselves
 
